@@ -15,5 +15,4 @@ public class StudentTest {
 		studentSeo.showStudentScore();
 		studentLee.showStudentScore();
 	}
-
 }
